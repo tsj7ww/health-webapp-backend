@@ -1,2 +1,2 @@
-# Health Webapp Frontend
-Angular
+# Health Webapp Backend
+Django
