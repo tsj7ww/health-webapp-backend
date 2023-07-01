@@ -1,0 +1,35 @@
+[
+    {
+        "user": "trevorjordan",
+        "timestamp": "2023-01-01T00:00:00.000Z",
+        "date": "2023-01-01",
+        "reflect": {
+            "physical": 2,
+            "emotional": 2,
+            "financial": 2
+        },
+        "social": {
+            "interactions": 3,
+            "interactions_feel": "good"
+        },
+        "altruism": {
+            "actions": 3
+        },
+        "gratitude": {
+            "1": "family",
+            "2": "friends",
+            "3": "health",
+            "4": "job",
+            "5": "home"
+        },
+        "mindfulness": {
+            "savored_moments": 3,
+            "meditation_mins": 10
+        },
+        "physical": {
+            "meals": 3,
+            "exercise_mins": 60
+        }
+
+    }
+]
